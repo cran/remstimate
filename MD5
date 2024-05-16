@@ -1,4 +1,4 @@
-360627791e2f3e6f229a690ef9fcd8b2 *DESCRIPTION
+05ba31a712c88a29f6f136866dc7015d *DESCRIPTION
 66fea3620570330b3ee4d4fb29bec707 *LICENSE
 ff710d1a2e8f95b967907b250b5b7c56 *NAMESPACE
 71d400b35cd2c430d94dd2d421a47b81 *R/RcppExports.R
@@ -11,7 +11,7 @@ cbd8d6fd25997a99b3d01c54b1bd2850 *R/remstimate.R
 241b350b297ea74126a57bf35f9e9332 *data/tie_data.rda
 f4ba8b55c72d106d9b934b376b61c913 *inst/doc/remstimate.R
 7f4cf2c1a1cc98ac58e8b14dadcbeab4 *inst/doc/remstimate.Rmd
-f7c6f41f98aceef2379d7b0108c072ad *inst/doc/remstimate.html
+ad8e10c8a43e66a904a809abc1929a69 *inst/doc/remstimate.html
 f6ffd5779d2fceaeeb29db4d0d0e24ee *inst/tinytest/test-remstimate-actor-oriented-pe.R
 f94b7025801fe268732cd77afbb1da56 *inst/tinytest/test-remstimate-actor-oriented-pt.R
 4224fb39b82388e0bb3df91f16a5df1d *inst/tinytest/test-remstimate-errors.R
@@ -25,7 +25,7 @@ b42f2ecd0fee47ddd1cbf09bc9922bde *man/aic.Rd
 5895c29cf07ee77f4e9c8aecb22dcdb6 *man/diagnostics.Rd
 765eef61c124b0cd645bb12b2a357e2f *man/plot.remstimate.Rd
 664215c4119c039f85584e8f9bfe8128 *man/print.remstimate.Rd
-616ddf2aa951f849c9077947468f2547 *man/remstimate-package.Rd
+9448d3bd99619f96aecd8c6ba5bb4226 *man/remstimate-package.Rd
 32855fd2452b8ad28ba3bfff0ba66230 *man/remstimate.Rd
 28d7cf84e8fe7593ed4129f04d549062 *man/summary.remstimate.Rd
 03443277b6a0149c3425a0686f01a62d *man/tie_data.Rd
@@ -33,7 +33,7 @@ b42f2ecd0fee47ddd1cbf09bc9922bde *man/aic.Rd
 280a734997aacfaffa1656111ae51c10 *src/Makevars
 280a734997aacfaffa1656111ae51c10 *src/Makevars.win
 07d4c75d3016b4fcc44a42aeddbf6007 *src/RcppExports.cpp
-4a6955c8a452c1def7a1ac0ac4c8416c *src/remstimate.cpp
+5045ba7b39fc373dbad64036d000b999 *src/remstimate.cpp
 9b1a40da24a63fb4c870c7845d37b301 *tests/tinytest.R
 1b373e5f26ca4c8c7ae0a15a4ed17ba3 *vignettes/remstimate-references.bib
 115bdd1cb0847093e866cf38c8d2d47e *vignettes/remstimate-theme.css
