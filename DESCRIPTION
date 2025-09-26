@@ -2,8 +2,8 @@ Type: Package
 Package: remstimate
 Title: Optimization Frameworks for Tie-Oriented and Actor-Oriented
         Relational Event Models
-Version: 2.3.13
-Date: 2025-01-29
+Version: 2.3.14
+Date: 2025-09-26
 Authors@R: 
     c(person(given = "Giuseppe",
              family = "Arena",
@@ -48,8 +48,9 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
 NeedsCompilation: yes
-Packaged: 2025-01-29 10:48:21 UTC; giuseppearena
-Author: Giuseppe Arena [aut, cre] (<https://orcid.org/0000-0001-5204-3326>),
+Packaged: 2025-09-26 08:10:13 UTC; giuseppearena
+Author: Giuseppe Arena [aut, cre] (ORCID:
+    <https://orcid.org/0000-0001-5204-3326>),
   Rumana Lakdawala [aut],
   Fabio Generoso Vieira [aut],
   Marlyne Meijerink-Bosman [ctb],
@@ -58,4 +59,4 @@ Author: Giuseppe Arena [aut, cre] (<https://orcid.org/0000-0001-5204-3326>),
   Roger Leenders [ctb],
   Joris Mulder [ctb]
 Repository: CRAN
-Date/Publication: 2025-01-29 13:20:02 UTC
+Date/Publication: 2025-09-26 08:30:02 UTC

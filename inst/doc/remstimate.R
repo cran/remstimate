@@ -73,7 +73,7 @@ waic(tie_mle)
 # diagnostics
 tie_mle_diagnostics <- diagnostics(object = tie_mle, reh = tie_reh, stats = tie_stats)
 
-## ----out.width="50%", dev=c("jpeg")-------------------------------------------
+## ----out.width="50%", dev=c("jpeg"), fig.alt = "tie-oriented plots", dev.args = list(bg = "white")----
 # plot
 plot(x = tie_mle, reh  = tie_reh, diagnostics = tie_mle_diagnostics)
 
@@ -138,7 +138,7 @@ tie_hmc <- remstimate::remstimate(reh = tie_reh,
 # summary 
 summary(tie_hmc)
 
-## ----out.width="50%", dev=c("jpeg")-------------------------------------------
+## ----out.width="50%", dev=c("jpeg"), fig.alt = "tie-oriented HMC plots", dev.args = list(bg = "white")----
 # diagnostics
 tie_hmc_diagnostics <- diagnostics(object = tie_hmc, reh = tie_reh, stats = tie_stats)
 # plot (histograms and trace plot have highest posterior density intervals dashed lines in blue and posterior estimate in red)
@@ -213,7 +213,7 @@ waic(ao_mle)
 # diagnostics
 ao_mle_diagnostics <- diagnostics(object = ao_mle, reh = ao_reh, stats = ao_stats)
 
-## ----out.width="50%", dev=c("jpeg")-------------------------------------------
+## ----out.width="50%", dev=c("jpeg"), fig.alt = "actor-oriented plots", dev.args = list(bg = "white")----
 # plot
 plot(x = ao_mle, reh  = ao_reh, diagnostics = ao_mle_diagnostics)
 
@@ -283,7 +283,7 @@ ao_hmc <- remstimate::remstimate(reh = ao_reh,
 # summary 
 summary(ao_hmc)
 
-## ----out.width="50%", dev=c("jpeg")-------------------------------------------
+## ----out.width="50%", dev=c("jpeg"), fig.alt = "actor-oriented HMC plots", dev.args = list(bg = "white")----
 # diagnostics
 ao_hmc_diagnostics <- diagnostics(object = ao_hmc, reh = ao_reh, stats = ao_stats)
 # plot (only for the receiver_model, by setting sender_model = NA)
